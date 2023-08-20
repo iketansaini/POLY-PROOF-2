@@ -31,4 +31,4 @@ Creates the required calldata for the verification process through the generateC
 Initiates a call to the verifyProof() method on the deployed Verifier contract, utilizing the generated calldata to authenticate the proof.
 Through this script, you will successfully deploy the Verifier contract and verify the proof against the underlying circuit, validating the correctness of your implementation.
 
-Conclusion
+
